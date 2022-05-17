@@ -5,10 +5,10 @@
 
 
 ## 🙋‍♂️ About Me
+- 🔭 Computer Sciences Student At **Comsats University Islamabad**
+- 🔭 I’m currently working on **Android App Development**
 
-- 🔭 I’m currently working on **[Blood Donation App](https://github.com/Zohaib-Munir/Blood-Donation-App)**
-
-- 🌱 I’m currently learning **Android And Flutter .**
+- 🌱 I’m currently learning **Android Studio And Flutter .**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
