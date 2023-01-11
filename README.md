@@ -1,7 +1,7 @@
 
 ![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)
 <h1 align="center">Hi 👋, I'm Zohaib Munir</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate developer from Pakistan</h3>
 
 <img align = "right" alt = "Coding" width ="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
