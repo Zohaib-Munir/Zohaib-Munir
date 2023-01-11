@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **zohaib.khan@123178@gmail.com**
+- 📫 How to reach me **zohaib.khan123178@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
